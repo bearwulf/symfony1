@@ -26,7 +26,7 @@ require_once 'PEAR/Installer.php';
  * @package    symfony
  * @subpackage plugin
  * @author     Fabien Potencier <fabien.potencier@symfony-project.com>
- * @version    SVN: $Id$
+ * @version    SVN: $Id: sfPearEnvironment.class.php 15966 2015-04-08 08:45:44Z wimulkeman $
  */
 class sfPearEnvironment
 {

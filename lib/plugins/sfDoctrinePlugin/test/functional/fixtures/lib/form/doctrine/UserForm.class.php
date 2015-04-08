@@ -5,7 +5,7 @@
  *
  * @package    form
  * @subpackage User
- * @version    SVN: $Id$
+ * @version    SVN: $Id: UserForm.class.php 15966 2015-04-08 08:45:44Z wimulkeman $
  */
 class UserForm extends BaseUserForm
 {

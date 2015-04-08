@@ -14,7 +14,7 @@
  * @package    symfony
  * @subpackage form
  * @author     Kris Wallsmith <kris.wallsmith@symfony-project.com>
- * @version    SVN: $Id$
+ * @version    SVN: $Id: sfFormSymfony.class.php 15966 2015-04-08 08:45:44Z wimulkeman $
  */
 class sfFormSymfony extends sfForm
 {

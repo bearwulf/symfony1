@@ -17,7 +17,7 @@ require_once(dirname(__FILE__).'/sfDoctrineBaseTask.class.php');
  * @package    symfony
  * @subpackage doctrine
  * @author     Jerome Tamarelle <jerome@tamarelle.net>
- * @version    SVN: $Id: sfDoctrineCompileTask.class.php 105 2012-03-22 16:26:34Z jtamarelle $
+ * @version    SVN: $Id: sfDoctrineCompileTask.class.php 15966 2015-04-08 08:45:44Z wimulkeman $
  */
 class sfDoctrineCompileTask extends sfDoctrineBaseTask
 {

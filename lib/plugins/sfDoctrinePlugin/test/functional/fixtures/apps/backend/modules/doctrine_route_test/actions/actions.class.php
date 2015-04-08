@@ -6,7 +6,7 @@
  * @package    symfony12
  * @subpackage doctrine_route_test
  * @author     Your name here
- * @version    SVN: $Id$
+ * @version    SVN: $Id: actions.class.php 15966 2015-04-08 08:45:44Z wimulkeman $
  */
 class doctrine_route_testActions extends sfActions
 {

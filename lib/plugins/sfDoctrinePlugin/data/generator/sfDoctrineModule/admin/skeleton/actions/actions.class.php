@@ -9,7 +9,7 @@ require_once dirname(__FILE__).'/../lib/##MODULE_NAME##GeneratorHelper.class.php
  * @package    ##PROJECT_NAME##
  * @subpackage ##MODULE_NAME##
  * @author     ##AUTHOR_NAME##
- * @version    SVN: $Id$
+ * @version    SVN: $Id: actions.class.php 15966 2015-04-08 08:45:44Z wimulkeman $
  */
 class ##MODULE_NAME##Actions extends auto##UC_MODULE_NAME##Actions
 {

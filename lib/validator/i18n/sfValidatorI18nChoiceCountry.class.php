@@ -14,7 +14,7 @@
  * @package    symfony
  * @subpackage validator
  * @author     Fabien Potencier <fabien.potencier@symfony-project.com>
- * @version    SVN: $Id$
+ * @version    SVN: $Id: sfValidatorI18nChoiceCountry.class.php 15966 2015-04-08 08:45:44Z wimulkeman $
  */
 class sfValidatorI18nChoiceCountry extends sfValidatorChoice
 {

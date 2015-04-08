@@ -14,7 +14,7 @@
  * @package    symfony
  * @subpackage config
  * @author     Jerome Tamarelle <jtamarelle@groupe-exp.com>
- * @version    SVN: $Id$
+ * @version    SVN: $Id: sfServiceConfigHandler.class.php 15966 2015-04-08 08:45:44Z wimulkeman $
  */
 class sfServiceConfigHandler extends sfYamlConfigHandler
 {

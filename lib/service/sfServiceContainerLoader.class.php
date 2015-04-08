@@ -14,7 +14,7 @@
  * @package    symfony
  * @subpackage service
  * @author     Fabien Potencier <fabien.potencier@symfony-project.com>
- * @version    SVN: $Id: sfServiceContainerLoader.php 267 2009-03-26 19:56:18Z fabien $
+ * @version    SVN: $Id: sfServiceContainerLoader.class.php 15966 2015-04-08 08:45:44Z wimulkeman $
  */
 abstract class sfServiceContainerLoader implements sfServiceContainerLoaderInterface
 {

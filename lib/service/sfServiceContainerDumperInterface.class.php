@@ -14,7 +14,7 @@
  * @package    symfony
  * @subpackage dependency_injection
  * @author     Fabien Potencier <fabien.potencier@symfony-project.com>
- * @version    SVN: $Id$
+ * @version    SVN: $Id: sfServiceContainerDumperInterface.class.php 15966 2015-04-08 08:45:44Z wimulkeman $
  */
 interface sfServiceContainerDumperInterface
 {

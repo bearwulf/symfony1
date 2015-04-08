@@ -16,7 +16,7 @@ require_once(__DIR__.'/sfPluginBaseTask.class.php');
  * @package    symfony
  * @subpackage task
  * @author     Fabian Lange <fabian.lange@symfony-project.com>
- * @version    SVN: $Id$
+ * @version    SVN: $Id: sfPluginPublishAssetsTask.class.php 15966 2015-04-08 08:45:44Z wimulkeman $
  */
 class sfPluginPublishAssetsTask extends sfPluginBaseTask
 {

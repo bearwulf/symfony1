@@ -28,7 +28,7 @@
  * @package    symfony
  * @subpackage helper
  * @author     Mike Squire <mike@somosis.co.uk>
- * @version    SVN: $Id$
+ * @version    SVN: $Id: EscapingHelper.php 15966 2015-04-08 08:45:44Z wimulkeman $
  */
 
 /**

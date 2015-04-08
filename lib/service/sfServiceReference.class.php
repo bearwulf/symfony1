@@ -14,7 +14,7 @@
  * @package    symfony
  * @subpackage service
  * @author     Fabien Potencier <fabien.potencier@symfony-project.com>
- * @version    SVN: $Id: sfServiceReference.php 267 2009-03-26 19:56:18Z fabien $
+ * @version    SVN: $Id: sfServiceReference.class.php 15966 2015-04-08 08:45:44Z wimulkeman $
  */
 class sfServiceReference
 {

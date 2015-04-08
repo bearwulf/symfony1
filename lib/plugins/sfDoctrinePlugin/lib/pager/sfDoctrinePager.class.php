@@ -15,7 +15,7 @@
  * @package    sfDoctrinePlugin
  * @subpackage pager
  * @author     Jonathan H. Wage <jonwage@gmail.com>
- * @version    SVN: $Id$
+ * @version    SVN: $Id: sfDoctrinePager.class.php 15966 2015-04-08 08:45:44Z wimulkeman $
  */
 class sfDoctrinePager extends sfPager implements Serializable
 {

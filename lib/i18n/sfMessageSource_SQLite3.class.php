@@ -14,7 +14,7 @@
  *
  * @author     Wei Zhuo <weizhuo[at]gmail[dot]com>
  * @author     Jérôme Macias <jmacias@groupe-exp.com>
- * @version    $Id$
+ * @version    $Id: sfMessageSource_SQLite3.class.php 15966 2015-04-08 08:45:44Z wimulkeman $
  * @package    symfony
  * @subpackage i18n
  */

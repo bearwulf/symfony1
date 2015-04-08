@@ -6,7 +6,7 @@
  * @package    ##PROJECT_NAME##
  * @subpackage form
  * @author     ##AUTHOR_NAME##
- * @version    SVN: $Id$
+ * @version    SVN: $Id: sfDoctrinePluginFormTemplate.php 15966 2015-04-08 08:45:44Z wimulkeman $
  */
 class <?php echo $this->table->getOption('name') ?>Form extends Plugin<?php echo $this->table->getOption('name') ?>Form
 {

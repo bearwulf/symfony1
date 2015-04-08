@@ -16,7 +16,7 @@ require_once(dirname(__FILE__).'/sfDoctrineBaseTask.class.php');
  * @package    symfony
  * @subpackage doctrine
  * @author     Jonathan H. Wage <jonwage@gmail.com>
- * @version    SVN: $Id$
+ * @version    SVN: $Id: sfDoctrineCleanModelFilesTask.class.php 15966 2015-04-08 08:45:44Z wimulkeman $
  */
 class sfDoctrineCleanModelFilesTask extends sfDoctrineBaseTask
 {

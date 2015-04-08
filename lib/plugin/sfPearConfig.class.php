@@ -16,7 +16,7 @@ require_once 'PEAR/Config.php';
  * @package    symfony
  * @subpackage plugin
  * @author     Fabien Potencier <fabien.potencier@symfony-project.com>
- * @version    SVN: $Id$
+ * @version    SVN: $Id: sfPearConfig.class.php 15966 2015-04-08 08:45:44Z wimulkeman $
  */
 class sfPearConfig extends PEAR_Config
 {

@@ -12,7 +12,7 @@
 // | Copyright (c) 2004 Michael Wallner <mike@iworks.at>                  |
 // +----------------------------------------------------------------------+
 //
-// $Id$
+// $Id: MO.php 15966 2015-04-08 08:45:44Z wimulkeman $
 
 /**
  * File::Gettext::MO
@@ -29,7 +29,7 @@ require_once __DIR__.'/TGettext.class.php';
  * GNU MO file reader and writer.
  *
  * @author      Michael Wallner <mike@php.net>
- * @version     $Revision: 9856 $
+ * @version     $Revision: 15966 $
  * @access      public
  * @package System.I18N.core 
  */

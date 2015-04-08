@@ -16,7 +16,7 @@
  * @package    symfony
  * @subpackage view
  * @author     Mike Squire <mike@somosis.co.uk>
- * @version    SVN: $Id$
+ * @version    SVN: $Id: sfOutputEscaperObjectDecorator.class.php 15966 2015-04-08 08:45:44Z wimulkeman $
  */
 class sfOutputEscaperObjectDecorator extends sfOutputEscaperGetterDecorator implements Countable
 {

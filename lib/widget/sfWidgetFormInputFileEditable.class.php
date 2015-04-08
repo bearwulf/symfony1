@@ -15,7 +15,7 @@
  * @package    symfony
  * @subpackage widget
  * @author     Fabien Potencier <fabien.potencier@symfony-project.com>
- * @version    SVN: $Id$
+ * @version    SVN: $Id: sfWidgetFormInputFileEditable.class.php 15966 2015-04-08 08:45:44Z wimulkeman $
  */
 class sfWidgetFormInputFileEditable extends sfWidgetFormInputFile
 {

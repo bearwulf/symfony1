@@ -14,7 +14,7 @@
  * @package    symfony
  * @subpackage service
  * @author     Fabien Potencier <fabien.potencier@symfony-project.com>
- * @version    SVN: $Id: sfServiceContainerBuilder.php 269 2009-03-26 20:39:16Z fabien $
+ * @version    SVN: $Id: sfServiceContainerBuilder.class.php 15966 2015-04-08 08:45:44Z wimulkeman $
  */
 class sfServiceContainerBuilder extends sfServiceContainer
 {

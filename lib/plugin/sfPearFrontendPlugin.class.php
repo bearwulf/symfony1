@@ -17,7 +17,7 @@ require_once 'PEAR/Frontend/CLI.php';
  * @package    symfony
  * @subpackage plugin
  * @author     Fabien Potencier <fabien.potencier@symfony-project.com>
- * @version    SVN: $Id$
+ * @version    SVN: $Id: sfPearFrontendPlugin.class.php 15966 2015-04-08 08:45:44Z wimulkeman $
  */
 class sfPearFrontendPlugin extends PEAR_Frontend_CLI
 {
